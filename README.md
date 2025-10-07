@@ -10,6 +10,12 @@
 Meet Mike, your friendly AI assistant who helps customers explore cleaning packages, answer questions, and book services—all through natural conversation via voice or text.
 
 
+---
+
+🎥 **Project Demo Video:**
+[![Watch the video](https://img.youtube.com/vi/hxwA0PrPl-M/0.jpg)](https://youtu.be/hxwA0PrPl-M)
+
+---
 
 ## 📋 Table of Contents
 
