@@ -1,0 +1,38 @@
+[18:23:01.836] Running build in Washington, D.C., USA (East) – iad1
+[18:23:01.837] Build machine configuration: 2 cores, 8 GB
+[18:23:01.877] Cloning github.com/Salmanahmed1078/CleanHomes- (Branch: main, Commit: 3c5022d)
+[18:23:02.231] Previous build caches not available
+[18:23:10.764] Cloning completed: 8.886s
+[18:23:13.904] Running "vercel build"
+[18:23:14.685] Vercel CLI 46.0.3
+[18:23:15.307] Installing dependencies...
+[18:23:17.892] 
+[18:23:17.893] added 11 packages in 2s
+[18:23:17.894] 
+[18:23:17.894] 65 packages are looking for funding
+[18:23:17.894]   run `npm fund` for details
+[18:23:17.929] Running "npm run build"
+[18:23:18.039] 
+[18:23:18.041] > rest-express@1.0.0 build
+[18:23:18.042] > vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist
+[18:23:18.042] 
+[18:23:18.466] [36mvite v5.4.19 [32mbuilding for production...[36m[39m
+[18:23:18.517] transforming...
+[18:23:18.847] Browserslist: browsers data (caniuse-lite) is 10 months old. Please run:
+[18:23:18.848]   npx update-browserslist-db@latest
+[18:23:18.848]   Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[18:23:23.288] [32m✓[39m 1831 modules transformed.
+[18:23:23.667] rendering chunks...
+[18:23:23.680] computing gzip size...
+[18:23:23.698] [2m../dist/public/[22m[32mindex.html                                                        [39m[1m[2m    2.93 kB[22m[1m[22m[2m │ gzip:   1.16 kB[22m
+[18:23:23.699] [2m../dist/public/[22m[2massets/[22m[32mProfessional_house_cleaning_service_f2f1a521-6FCJtI8G.png  [39m[1m[2m1,268.96 kB[22m[1m[22m
+[18:23:23.699] [2m../dist/public/[22m[2massets/[22m[35mindex-nFXW8FPw.css                                         [39m[1m[2m   65.32 kB[22m[1m[22m[2m │ gzip:  11.53 kB[22m
+[18:23:23.703] [2m../dist/public/[22m[2massets/[22m[36mindex-DCnI3vpr.js                                          [39m[1m[33m  516.56 kB[39m[22m[2m │ gzip: 153.76 kB[22m
+[18:23:23.703] [33m
+[18:23:23.703] (!) Some chunks are larger than 500 kB after minification. Consider:
+[18:23:23.703] - Using dynamic import() to code-split the application
+[18:23:23.704] - Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+[18:23:23.704] - Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
+[18:23:23.704] [32m✓ built in 5.21s[39m
+[18:23:23.730] sh: line 1: /vercel/path0/node_modules/.bin/esbuild: cannot execute binary file: Exec format error
+[18:23:23.740] Error: Command "npm run build" exited with 126
