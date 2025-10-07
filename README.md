@@ -13,7 +13,7 @@ Meet Mike, your friendly AI assistant who helps customers explore cleaning packa
 ---
 
 🎥 **Project Demo Video:**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hxwA0PrPl-M" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/hxwA0PrPl-M/0.jpg)](https://youtu.be/hxwA0PrPl-M)
 
 ---
 
